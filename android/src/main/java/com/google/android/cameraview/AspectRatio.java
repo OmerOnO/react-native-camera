@@ -18,7 +18,7 @@ package com.google.android.cameraview;
 
 import android.os.Parcel;
 import android.os.Parcelable;
-import android.support.annotation.NonNull;
+import androidx.annotation.Nullable;
 import androidx.collection.SparseArrayCompat;
 
 /**
